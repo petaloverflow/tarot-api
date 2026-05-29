@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tarot API by petaloverflow</title>
+</head>
+<body bgcolor="#0a0a0a" text="#f0e6d3" link="#c9a84c" vlink="#c9a84c">
+
+  <br>
+
+  <center>
+
+    <img src="cards/ar00.jpg" width="80" alt="The Fool">
+
+    <br><br>
+
+    <font face="Georgia" size="6" color="#c9a84c">✦ Tarot API ✦</font>
+
+    <br><br>
+
+    <font face="Georgia">
+      Free image API for the Rider-Waite tarot deck.<br>
+      78 cards &nbsp;|&nbsp; public domain &nbsp;|&nbsp; no key needed
+    </font>
+
+    <br><br>
+
+    <font size="2" color="#a89880"><i>
+      made for the react hooks series on tiktok &amp; youtube<br>
+      by <a href="https://github.com/petaloverflow">petaloverflow</a>
+    </i></font>
+
+    <br><br>
+    <hr width="500" color="#c9a84c">
+    <br>
+
+    <table border="0" cellpadding="6" cellspacing="0" width="500">
+      <tr>
+        <td width="50%">
+          <font color="#c9a84c" face="Georgia"><b>endpoints</b></font><br><br>
+          <a href="cards.json">/cards.json</a> &nbsp; all 78 cards<br>
+          <a href="major.json">/major.json</a> &nbsp; major arcana<br>
+          <a href="minor.json">/minor.json</a> &nbsp; minor arcana<br>
+          <a href="wands.json">/wands.json</a> &nbsp; wands<br>
+          <a href="cups.json">/cups.json</a> &nbsp;&nbsp; cups<br>
+          <a href="swords.json">/swords.json</a> &nbsp; swords<br>
+          <a href="pentacles.json">/pentacles.json</a> &nbsp; pentacles
+        </td>
+        <td width="50%" valign="top">
+          <font color="#c9a84c" face="Georgia"><b>each card returns</b></font><br><br>
+          <pre>{
+  "name": "The Fool",
+  "image": "...ar00.jpg"
+}</pre>
+        </td>
+      </tr>
+    </table>
+
+    <br>
+    <hr width="500" color="#c9a84c">
+    <br>
+
+    <font color="#c9a84c" face="Georgia"><b>example</b></font>
+
+    <br><br>
+
+    <pre>fetch("https://petaloverflow.github.io/tarot-api/major.json")
+  .then(res => res.json())
+  .then(cards => console.log(cards))</pre>
+
+    <br>
+
+  </center>
+
+</body>
+</html>
