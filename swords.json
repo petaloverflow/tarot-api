@@ -1,0 +1,16 @@
+[
+  {"name":" of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw01.jpg"},
+  {"name":"Ace of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw02.jpg"},
+  {"name":"Two of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw03.jpg"},
+  {"name":"Three of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw04.jpg"},
+  {"name":"Four of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw05.jpg"},
+  {"name":"Five of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw06.jpg"},
+  {"name":"Six of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw07.jpg"},
+  {"name":"Seven of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw08.jpg"},
+  {"name":"Eight of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw09.jpg"},
+  {"name":"Nine of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw10.jpg"},
+  {"name":"Ten of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw11.jpg"},
+  {"name":"Page of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw12.jpg"},
+  {"name":"Knight of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw13.jpg"},
+  {"name":"Queen of uswords","image":"https://petaloverflow.github.io/tarot-api/cards/sw14.jpg"}
+]

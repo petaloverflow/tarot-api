@@ -1,0 +1,16 @@
+[
+  {"name":" of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa01.jpg"},
+  {"name":"Ace of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa02.jpg"},
+  {"name":"Two of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa03.jpg"},
+  {"name":"Three of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa04.jpg"},
+  {"name":"Four of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa05.jpg"},
+  {"name":"Five of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa06.jpg"},
+  {"name":"Six of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa07.jpg"},
+  {"name":"Seven of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa08.jpg"},
+  {"name":"Eight of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa09.jpg"},
+  {"name":"Nine of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa10.jpg"},
+  {"name":"Ten of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa11.jpg"},
+  {"name":"Page of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa12.jpg"},
+  {"name":"Knight of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa13.jpg"},
+  {"name":"Queen of uwands","image":"https://petaloverflow.github.io/tarot-api/cards/wa14.jpg"}
+]

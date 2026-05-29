@@ -1,0 +1,16 @@
+[
+  {"name":" of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu01.jpg"},
+  {"name":"Ace of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu02.jpg"},
+  {"name":"Two of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu03.jpg"},
+  {"name":"Three of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu04.jpg"},
+  {"name":"Four of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu05.jpg"},
+  {"name":"Five of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu06.jpg"},
+  {"name":"Six of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu07.jpg"},
+  {"name":"Seven of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu08.jpg"},
+  {"name":"Eight of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu09.jpg"},
+  {"name":"Nine of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu10.jpg"},
+  {"name":"Ten of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu11.jpg"},
+  {"name":"Page of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu12.jpg"},
+  {"name":"Knight of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu13.jpg"},
+  {"name":"Queen of ucups","image":"https://petaloverflow.github.io/tarot-api/cards/cu14.jpg"}
+]
